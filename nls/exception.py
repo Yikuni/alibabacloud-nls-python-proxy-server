@@ -26,6 +26,3 @@ class NotStartException(Exception):
 
 class CompleteTimeoutException(Exception):
     pass
-
-class WrongStateException(Exception):
-    pass
